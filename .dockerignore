@@ -1,0 +1,9 @@
+*.pdf
+*.md
+LICENSE
+build/Dockerfile
+.gitignore
+.git/
+.gitmodules
+.github/
+signature
