@@ -10,8 +10,16 @@
 \usepackage[utf8]{inputenc}
 \usepackage{pdfpages}
 \usepackage{xpatch}
+\usepackage[unicode]{hyperref}
+\definecolor{airforceblue}{rgb}{0.36, 0.54, 0.66}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=airforceblue,
+    filecolor=magenta,
+    urlcolor=airforceblue,
+}
 
-\recomputelengths                             % required when changes are made to page layout lengths
+\recomputelengths                       % required when changes are made to page layout lengths
 \moderncvcolor{grey} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
 \nopagenumbers{}
 % \setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
