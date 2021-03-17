@@ -18,6 +18,10 @@ for source versions please checkout:
 
 - install latex and pdflatex first
 - install fontawesome5 in ~/.font/fontawesome5
+- pull submodules using
+```bash
+git submodule update --init --recursive
+```
 
 ## Run
 
