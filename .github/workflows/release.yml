@@ -15,17 +15,16 @@ jobs:
         uses: actions/checkout@v3
       - name: Build
         run: make all
-      - name: Changelog
-        uses: scottbrenner/generate-changelog-action@master
-        id: Changelog
-        env:
-          REPO: ${{ github.repository }}
+      - name: Bump version and push tag
+        uses: hennejg/github-tag-action@v4.3.1
+        id: tags
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
       - name: Release
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: ${{ github.ref_name }}
-          body: |
-            ${{ steps.Changelog.outputs.changelog }}
+          body: ${{ steps.tags.outputs.changelog }}
+          tag_name: ${{ steps.tags.outputs.new_tag }}
           draft: false
           prerelease: false
           generate_release_notes: true
