@@ -31,5 +31,4 @@ jobs:
           generate_release_notes: true
           files: |
             dist/George_Messiha_Resume.pdf
-            dist/George_Messiha_CoverLetter.pdf
             dist/George_Messiha_detailed_resume.pdf
