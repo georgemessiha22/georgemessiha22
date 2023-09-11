@@ -15,10 +15,10 @@ detailed:
 resume: 
 	docker run --rm -v $(PWD):/data tex:latest pdflatex -output-directory dist George_Messiha_Resume.tex
 
-cover:
-	docker run --rm -v $(PWD):/data tex:latest pdflatex -output-directory dist George_Messiha_CoverLetter.tex
+# cover:
+#	docker run --rm -v $(PWD):/data tex:latest pdflatex -output-directory dist George_Messiha_CoverLetter.tex
 
 clean:
 	rm -f dist/*.aux dist/*.out dist/*.log
 
-all: build detailed resume cover clean
+all: build detailed resume clean

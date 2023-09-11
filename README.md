@@ -1,10 +1,20 @@
-# 💫 About Me:
+# Lead Software Engineer | Gopher, Pythonista
+
+## 💫 About Me:
 
 <!-- 🔭 I’m currently working on<br> -->
 <!-- 👯 I’m looking to collaborate on <br> -->
 🌱 I’m currently learning Rust, Svelte<br>
 💬 Ask me about DevOps, Backend, Team Topologies<br>
 <!-- ⚡ Fun fact -->
+
+### Summary
+
+I oversee and guide the technical aspects of the squad’s operations, using my expertise in backend development, data engineering, and microservices. I have developed and architected two microservices using Django Python and GoLang, and successfully migrated data from the Django monolithic to GoLang services. I also contribute to the squad’s architecture designs, needs, and improvements, ensuring efficient and effective operations. As a leader, I create a positive and supportive team environment, where everyone is encouraged to contribute and achieve their full potential. 
+
+Before joining FinCompare, I worked as a Remote Senior Software Engineer for over a year, developing and maintaining websites and infrastructure using Python, Django, AWS, and other tools. I also helped other team members to reach the customer requirements and improve their skills through discussions, monitoring, and pair programming. 
+
+I am passionate about learning new technologies and applying them to solve real-world problems. I am proficient in a variety of tools and frameworks. I also have experience in data modeling, system architecture, data visualization, and web scraping. I am always eager to take on new challenges and collaborate with other professionals in the field.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/georgesamir22) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/georgemessiha22) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/georgemessiha22)[![Resume](https://github.com/georgemessiha22/resume/blob/master/pictures/resume_badge.png?raw=true)](https://github.com/georgemessiha22/georgemessiha22/releases/latest/download/George_Messiha_Resume.pdf)
