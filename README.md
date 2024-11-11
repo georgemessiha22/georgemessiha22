@@ -7,12 +7,16 @@
 🌱 I’m currently learning Rust, Svelte<br>
 💬 Ask me about DevOps, Backend, Team Topologies<br>
 <!-- ⚡ Fun fact -->
+󰢹  Love remote work<br>
 
 ### Summary
 
-@Fincompare-Gmbh, oversee and guide the technical aspects of the squad’s operations, using my expertise in backend development, data engineering, and microservices. I have developed and architected two microservices using Django Python and GoLang, and successfully migrated data from the Django monolithic to GoLang services. I also contribute to the squad’s architecture designs, needs, and improvements, ensuring efficient and effective operations. As a leader, I create a positive and supportive team environment, where everyone is encouraged to contribute and achieve their full potential. 
+@HungerStation, Working on a large scale food delivery apps' backend in microservice architecture, Specifiably on User acquisition that manage all users' communication part; like notification-service integrating external tools to allow all out going communication according to user preferable type of communication,
+User management like Authentication & Authorization, User profile. Carefully find a way to apply business strategies.
 
-Before joining @Fincompare-Gmbh, I worked as a Remote Senior Software Engineer for over a year, developing and maintaining websites and infrastructure using Python, Django, AWS, and other tools. I also helped other team members to reach the customer requirements and improve their skills through discussions, monitoring, and pair programming. 
+@Fincompare-Gmbh, oversee and guide the technical aspects of the squad’s operations, using my expertise in backend development, data engineering, and microservices. I have developed and architect two microservices using Django Python and GoLang, and successfully migrated data from the Django monolithic to GoLang services. I also contribute to the squad’s architecture designs, needs, and improvements, ensuring efficient and effective operations. As a leader, I create a positive and supportive team environment, where everyone is encouraged to contribute and achieve their full potential.
+
+Previously, Worked as a Remote Senior Software Engineer for over a year, developing and maintaining websites and infrastructure using Python, Django, AWS, and other tools. I also helped other team members to reach the customer requirements and improve their skills through discussions, monitoring, and pair programming.
 
 I am passionate about learning new technologies and applying them to solve real-world problems. I am proficient in a variety of tools and frameworks. I also have experience in data modeling, system architecture, data visualization, and web scraping. I am always eager to take on new challenges and collaborate with other professionals in the field.
 

@@ -1,7 +1,7 @@
 VERSION_TAG=$(shell date +'%y.%m.%d')
 PWD=$(shell pwd)
 
-.PHONY: build detailed resume cover 
+.PHONY: build bash detailed resume clean all
 
 build:
 	docker build -f build/Dockerfile -t tex:latest -t tex:$(VERSION_TAG) .
@@ -12,7 +12,7 @@ bash:
 detailed:
 	docker run --rm -v $(PWD):/data tex:latest pdflatex -output-directory dist George_Messiha_detailed_resume.tex
 
-resume: 
+resume:
 	docker run --rm -v $(PWD):/data tex:latest pdflatex -output-directory dist George_Messiha_Resume.tex
 
 # cover:
