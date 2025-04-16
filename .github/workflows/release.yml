@@ -3,7 +3,6 @@ name: Release
 on:
   push:
     branches:
-      - main
       - master
       - releases
 
@@ -13,16 +12,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Build
         run: make all
       - name: Bump version and push tag
-        uses: hennejg/github-tag-action@v4.3.1
+        uses: laputansoft/github-tag-action@v4.6
         id: tags
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          tag: ${{ steps.package-version.outputs.version }}
       - name: Release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2.2.1
         with:
           body: ${{ steps.tags.outputs.changelog }}
           tag_name: ${{ steps.tags.outputs.new_tag }}
