@@ -15,9 +15,6 @@ detailed:
 resume:
 	docker run --rm -v $(PWD):/data tex:latest pdflatex -output-directory dist George_Messiha_Resume.tex
 
-# cover:
-#	docker run --rm -v $(PWD):/data tex:latest pdflatex -output-directory dist George_Messiha_CoverLetter.tex
-
 clean:
 	rm -f dist/*.aux dist/*.out dist/*.log
 
