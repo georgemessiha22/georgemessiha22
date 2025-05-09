@@ -10,16 +10,6 @@
 <!-- ⚡ Fun fact -->
 󰢹  Love remote work<br>
 
-### Summary
-
-@HungerStation, played a key role in bolstering the reliability and efficiency of core backend systems through proactive enhancements and comprehensive testing strategies. Contributed to significant improvements in the software development lifecycle by optimizing build times and establishing enhanced monitoring across distributed systems. Provided critical analysis and resolution for complex technical challenges and spearheaded the architectural design and delivery of new services to improve system integration and scalability.
-
-@Fincompare-Gmbh, oversee and guide the technical aspects of the squad’s operations, using my expertise in backend development, data engineering, and microservices. I have developed and architect two microservices using Django Python and GoLang, and successfully migrated data from the Django monolithic to GoLang services. I also contribute to the squad’s architecture designs, needs, and improvements, ensuring efficient and effective operations. As a leader, I create a positive and supportive team environment, where everyone is encouraged to contribute and achieve their full potential.
-
-Previously, Worked as a Remote Senior Software Engineer for over a year, developing and maintaining websites and infrastructure using Python, Django, AWS, and other tools. I also helped other team members to reach the customer requirements and improve their skills through discussions, monitoring, and pair programming.
-
-Highly motivated and result drivin individual, with passion about learning new technologies and applying them to solve real-world problems. Proficient in a variety of tools and frameworks. Have experience in data modeling, system architecture, data visualization. Always eager to take on new challenges and collaborate with other professionals in the field.
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/georgesamir22)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/georgemessiha22)
@@ -32,13 +22,6 @@ Highly motivated and result drivin individual, with passion about learning new t
 ![](https://github-readme-stats.vercel.app/api?username=georgemessiha22&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=georgemessiha22&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=georgemessiha22&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-#### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=georgemessiha22&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-
-#### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=georgemessiha22&icon=5&color=2)](https://visitcount.itsvg.in)
 
