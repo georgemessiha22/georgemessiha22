@@ -21,6 +21,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           tag: ${{ steps.package-version.outputs.version }}
+          create_annotated_tag: true
       - name: Release
         uses: softprops/action-gh-release@v2.2.1
         with:
