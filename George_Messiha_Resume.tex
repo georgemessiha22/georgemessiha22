@@ -7,7 +7,7 @@
 \usepackage[T1]{fontenc}
 \usepackage{subfiles}
 \usepackage{multicol}
-\usepackage[scale=0.85,top=0.5cm, bottom=0.1cm]{geometry}
+\usepackage[scale=0.8,top=1.9cm, bottom=1.9cm]{geometry}
 \usepackage[utf8]{inputenc}
 \usepackage{pdfpages}
 \usepackage{lmodern}
@@ -22,12 +22,12 @@
 }
 \recomputelengths                             % required when changes are made to page layout lengths
 % \tlmaxdates{2011}{2020}
-\moderncvcolor{grey} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+% \moderncvcolor{grey} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
 \nopagenumbers{}
 % \setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
 %\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
-% \moderncvtheme[red]{classic}
-\moderncvstyle{banking} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvtheme[grey]{banking}
+% \moderncvstyle{banking} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
 % --------------------------------------------------------------------------------------
 \input{contact/main.tex}
 
@@ -40,6 +40,11 @@
 %----------------------------------------------------------------------------------------
 
 \makecvtitle
+
+%----------------------------------------------------------------------------------------
+%	Summary
+%----------------------------------------------------------------------------------------
+\subfile{summary.tex}
 
 %----------------------------------------------------------------------------------------
 %	WORK EXPERIENCE SECTION

@@ -14,14 +14,23 @@
 
 @HungerStation, played a key role in bolstering the reliability and efficiency of core backend systems through proactive enhancements and comprehensive testing strategies. Contributed to significant improvements in the software development lifecycle by optimizing build times and establishing enhanced monitoring across distributed systems. Provided critical analysis and resolution for complex technical challenges and spearheaded the architectural design and delivery of new services to improve system integration and scalability.
 
-@Fincompare-Gmbh, oversee and guide the technical aspects of the squad’s operations, using my expertise in backend development, data engineering, and microservices. I have developed and architect two microservices using Django Python and GoLang, and successfully migrated data from the Django monolithic to GoLang services. I also contribute to the squad’s architecture designs, needs, and improvements, ensuring efficient and effective operations. As a leader, I create a positive and supportive team environment, where everyone is encouraged to contribute and achieve their full potential.
+### My Experience & Philosophy 💡
+Previously, as a Lead Software Engineer at @Fincompare-Gmbh, I led a team in the strategic migration of a legacy Python Django monolith to a modern microservices architecture. I architected and developed new services in both Python/Django and Golang, engineering a seamless data migration and paving the way for the company's technical evolution. I believe in creating a positive and supportive team environment where everyone is encouraged to contribute and achieve their full potential.
 
-Previously, Worked as a Remote Senior Software Engineer for over a year, developing and maintaining websites and infrastructure using Python, Django, AWS, and other tools. I also helped other team members to reach the customer requirements and improve their skills through discussions, monitoring, and pair programming.
+My core focus is on Golang, but I have a broad skill set that includes:
 
-Highly motivated and result drivin individual, with passion about learning new technologies and applying them to solve real-world problems. Proficient in a variety of tools and frameworks. Have experience in data modeling, system architecture, data visualization. Always eager to take on new challenges and collaborate with other professionals in the field.
+Architecture & Design: Migrating monolithic applications to microservices, data modeling, and system architecture.
+
+Core Tech Stack: Go, Python, Kubernetes, Docker, Prometheus, and gRPC.
+
+Observability & DevOps: A strong advocacy for robust monitoring with hands-on experience in OpenTelemetry, Jaeger, and Istio.
+
+Leadership: Mentoring senior engineers, setting organization-wide best practices, and improving team skills through pair programming and code reviews.
+
+I'm driven by a passion for learning new technologies and applying them to make a tangible impact. 🔥 On this page, you'll find a collection of my personal projects and experiments related to distributed systems and cloud-native tech.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/georgesamir22)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/georgemessiha22)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/georgemessiha22)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/georgemessiha22)
 [![Resume](https://img.shields.io/badge/resume-blue?style=social&logo=readme&color=grey&link=https%3A%2F%2Fgithub.com%2Fgeorgemessiha22%2Fgeorgemessiha22%2Freleases%2Flatest%2Fdownload%2Fgeorge_messiha_resume.pdf&link=https%3A%2F%2Fgithub.com%2Fgeorgemessiha22%2Fgeorgemessiha22%2Freleases%2Flatest%2Fdownload%2Fgeorge_messiha_resume.pdf)](https://github.com/georgemessiha22/georgemessiha22/releases/latest/download/george_messiha_resume.pdf)
